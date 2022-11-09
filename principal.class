@@ -1,0 +1,7 @@
+public class TerminosyCondiciones {
+
+    public static void main(String[] args) {
+        Acceso log = new Acceso();//declara el objeto y manda a traer el frame de acceso
+        log.setVisible(true);
+    }
+}
